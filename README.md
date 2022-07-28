@@ -1,7 +1,9 @@
 # NLP_DA2_19BEC1356
 CSE4022 Natural Language Processing
+
 Digital Assignment -2
-1.	Create a text corpus with minimum 200 words (unique contents). Implement the following text processing
+
+Create a text corpus with minimum 200 words (unique contents). Implement the following text processing
 (10 Marks)
 
 •	Word segmentation
